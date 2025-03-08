@@ -18,7 +18,7 @@ I am very glad to mention that in my MirNet Model Implementation i achieved PSNR
 ### 1)At training data: 67.1063
 ### 2)At validation data: 67.2350
 For further knowledge you can view the graph plotted for psnr vs epochs at
-: https://drive.google.com/file/d/1njtcuIq4T7L-6FEPvJlMt08ys4sMvt40/view?usp=sharing
+: https://docs.google.com/document/d/1j7gfcST4yhlO6Ik1DUdR2rJgXBM5QH_uOmPWjsYfnB4/edit?usp=sharing
 ## Pipeline ❄️
 ### 1. Data Preparation
 - **Training Data**: Images are sourced from the LOL dataset, specifically the `our485` directory.
