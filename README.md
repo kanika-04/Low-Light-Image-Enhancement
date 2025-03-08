@@ -97,11 +97,11 @@ python main.py
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/kkboss1234/Vlg_denoising.git
+    git clone https://github.com/kanika-04/Low-Light-Image-Enhancement
     ```
 2. Navigate to the project directory:
     ```bash
-    cd ./Vlg_denoising/
+    cd ./Low-Light-Image-Enhancement/
     next line:
     cd ./Project/
     ```
