@@ -119,7 +119,7 @@ python main.py
 ## More Knowledge
 For More Knowledge:
 U can view this report created by me :
-https://docs.google.com/document/d/14o22xdVdcKlJlETZHm0cd-v9PYYeSyD69SWVWmV1PzU/edit?usp=sharing
+https://drive.google.com/file/d/1QJcQBRKx0XBfAuozyn60RmsiKcFH5Qff/view?usp=sharing
 
 Or you can view the research paper at:
 https://www.ijfmr.com/papers/2023/3/4001.pdf
